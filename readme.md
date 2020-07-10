@@ -1,10 +1,10 @@
-#hello-world
+# Hi Everyone!
 
-Hi Everyone!
 
 I'm a final year electrical engineer undergraduate student.
 
 # My Skills
+
 
 ## Key Skills
 * C++
@@ -17,8 +17,7 @@ I'm a final year electrical engineer undergraduate student.
 * HTML + CSS
 * Github
 
-
-thank you  
+>You were placed on this earth to create not to compete  
 
 :)
 
